@@ -134,3 +134,17 @@ body {
   cursor: pointer;
   transition: background-color 150ms;
 }
+
+.category:hover {
+  background-color: #ddd;
+}
+
+.category.active {
+  background-color: #606860;
+  color: white;
+  border-color: #eee;
+}
+
+.category:last-child {
+  margin-right: 0;
+}
