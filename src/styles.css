@@ -246,19 +246,6 @@ body {
   margin-left: 10px;
 }
 
-.right-icons svg,
-span {
-  margin: 0px 5px;
-  cursor: pointer;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  padding: 8px;
-}
-.right-icons svg:hover {
-  background-color: #222222;
-}
-
 .rounded-pill {
   width: 30px !important;
   height: 30px !important;
