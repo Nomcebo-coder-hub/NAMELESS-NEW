@@ -121,3 +121,9 @@ body {
   display: flex;
   overflow: hidden;
 }
+
+.category {
+  margin-right: 1rem;
+  word-wrap: none;
+  white-space: nowrap;
+}
